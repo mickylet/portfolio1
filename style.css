@@ -285,6 +285,7 @@ html {
 
 .project-img {
   width: 40rem;
+  height: 40rem;
   transition: opacity 0.3s;
 }
 
